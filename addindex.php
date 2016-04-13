@@ -59,7 +59,7 @@ $_SESSION['form_token'] = $form_token;
       <nav class="top-bar" data-topbar>
         <ul class="title-area">
           <li class="name">
-            <h1><a href="/dashboard/index.html">George Mason University</a></h1>
+            <h1><a href="/dashboard/index.php">George Mason University</a></h1>
           </li>
           <li class="toggle-topbar menu-icon">
             <a href="#">

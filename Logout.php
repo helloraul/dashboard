@@ -4,5 +4,5 @@
    unset($_SESSION["password"]);
    
    
-   header('Refresh: 2; URL = index.html');
+   header('Refresh: 2; URL = index.php');
 ?>
