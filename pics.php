@@ -43,6 +43,7 @@
 			echo "Please select an image to upload<br>";
 		}
 		
+		
 		//Delete all the pictures
 		if(isSet($_GET["cleanTRUEorFALSE"]) AND ($_GET['cleanTRUEorFALSE']=='clear'))
 			mysqli_query($connection, "TRUNCATE eventpics");
