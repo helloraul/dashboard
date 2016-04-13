@@ -169,6 +169,7 @@ else
               <li class=""><a href="/applications.html">Alumni</a></li>
               <li class=""><a href="/dashboard/faq.html">Get Involed</a></li>
               <li class=""><a href="/dashboard/howto.html">Alumni Career Resources</a></li>
+				<li class=""><a href="/dashboard/pics.php">Event Pictures</a></li>
               <li class=""><a target="_blank" href="/dashboard/phpinfo.php">Department News</a></li>
 			  <li class=""><a href="/dashboard/search.html">Search</a></li>
 			  <<li class=""><a href="/dashboard/Logout.php">Logout</a></li>
